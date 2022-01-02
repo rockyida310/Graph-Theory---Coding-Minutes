@@ -1,0 +1,4 @@
+C:\Users\dedic\AppData\Local\JetBrains\CLion2021.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2021.2.1/bin/ninja/cygwin/ninja.exe" -G Ninja "/cygdrive/d/Github/GITHUB 2/. REPOSITORY/Graph Theory - Coding Minutes"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Github/GITHUB 2/. REPOSITORY/Graph Theory - Coding Minutes/cmake-build-debug
